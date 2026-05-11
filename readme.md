@@ -1,4 +1,4 @@
-# 🖥️ RAM Monitor
+# 🖥️ MONITOREO DE USO Y DESEMPEÑO DE LA RAM
 
 ## 🧠 Descripción del Proyecto
 Aplicación de escritorio desarrollada en Python para el monitoreo del uso de memoria RAM en tiempo real. Permite visualizar métricas del sistema, procesos activos y gráficos dinámicos para analizar el rendimiento del equipo.
